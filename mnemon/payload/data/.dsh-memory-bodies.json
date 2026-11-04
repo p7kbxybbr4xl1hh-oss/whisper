@@ -1,4 +1,13 @@
 {
   "version": 1,
-  "bodies": []
+  "bodies": [
+    {
+      "id": "default",
+      "name": "微积分",
+      "description": "所有微积分相关的知识",
+      "active": true,
+      "createdAt": "2026-11-04T12:25:35.421Z",
+      "updatedAt": "2026-11-04T12:25:38.219Z"
+    }
+  ]
 }

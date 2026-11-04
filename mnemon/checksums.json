@@ -5,6 +5,7 @@
     "payload/runtime/USER.md": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
     "payload/runtime/MEMORY.md": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
     "payload/documents/index.json": "02dbd87a6d87bb3eb0cf2d22a87efdf8dd323affa7668abf0720108a5fee366c",
-    "payload/data/.dsh-memory-bodies.json": "dc6020b75bab2ed6109193aea9c3427c22d9d2b6edd223c4c8c6cd87ad0c67dd"
+    "payload/data/.dsh-memory-bodies.json": "99aa3da3eebb2891325ec1e32310fa15c15d43b1a97a3a6017047bfc2bcccc2d",
+    "payload/data/default/mnemon.db": "828ff89fa9f40ebe969cd65ecc5042b4813ce84678cd1404b9e13157b87ff6b8"
   }
 }
